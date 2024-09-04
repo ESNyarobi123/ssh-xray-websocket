@@ -24,7 +24,7 @@ Debian 12 & Ubuntu 23.04 LTS Support!!!
 # <div align="center">INSTALLATION</div>
 jUST COPY THIS ONE COMMAND, THEN PASTE TO YOUR VPS
 
-    wget https://raw.githubusercontent.com/PixerJason/ssh-xray-websocket/main/main.sh && chmod 777 main.sh && ./main.sh
+    wget https://raw.githubusercontent.com/ESNyarobi123/ssh-xray-websocket/main/main.sh && chmod 777 main.sh && ./main.sh
 
 
 [ FEATURES ] <br>
@@ -83,11 +83,3 @@ To access pannel just type a single world "panel" in your vps
 ![Screenshot_2023-08-26_14-01-50](https://github.com/PixerJason/ssh-xray-websocket/assets/109621806/6f1d2bf4-e3da-4581-939f-93c0f7830ad6)
 
 
-## Contact
-
-If you have any questions, suggestions, or feedback, please feel free to contact me:
-
-- Telegram: [Pixer Jason](https://t.me/PixerJason)
-- Telegram-Channel: [Ghostcracker 101](https://t.me/scriptfeedback)   
-
-# <div align="center">OTHER VERSIONS COMMING SOON....</div>
